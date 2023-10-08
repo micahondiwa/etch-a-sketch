@@ -17,4 +17,5 @@ body {
 
 .square:hover {
     background-color: #000;
+    padding: 0%;
 }
